@@ -1,6 +1,6 @@
 # Carbon Nanotubes: An Application of Machine Learning to Atomic Coordinates
 
-This repository contains a Jupyter Notebook with a multi-variate feedforward neural network model and a separate gradient-boosted regression tree designed to calculate the coordinates of a given atom $<u', v', w'>$ within a sample of carbon nanotubes given initial coordinates $<u, v, w>$ and chiral indices $n$ and $m$. These results are compared to the atomic coordinates calculated by Density Functional Theory, an extremely popular and accurate quantum mechanical modelling method used in the physical sciences. The neural network utilizes the Adam optimizer, a stochastic gradient-based optimizer. 
+This repository contains a Jupyter Notebook with a multi-variate feedforward neural network model and a separate gradient-boosted regression tree designed to calculate the coordinates of a given atom <u', v', w'> within a sample of carbon nanotubes given initial coordinates <u, v, w> and chiral indices n and m. These results are compared to the atomic coordinates calculated by Density Functional Theory, an extremely popular and accurate quantum mechanical modelling method used in the physical sciences. The neural network utilizes the Adam optimizer, a stochastic gradient-based optimizer. 
 
 Note that this README.md containes a simple introduction and summary, both of which are also included in the Jupyter Notebook. For Data Scientists and others looking to verify findings or for more technical details, please refer to the contents of the Jupyter Notebook.
 
